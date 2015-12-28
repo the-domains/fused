@@ -1,0 +1,29 @@
+name: fused
+favicon: null
+layout_spectrum: 0.008627793984487653
+typography_spectrum: 0.7950081476010382
+title: Thinking of Design Thinking
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.003944917349144816
+  lightness: 0.15822810749523342
+  saturation: 0.12563934829086065
+  rhythmicContrast: 0.6009009410627186
+purpose: []
