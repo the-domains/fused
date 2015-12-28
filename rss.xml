@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[fused]]></title>
+        <description><![CDATA[fused]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 28 Dec 2015 18:41:16 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Year in Design]]></title>
+            <description><![CDATA[<article><h1>The Year in Design</h1><p>Mobile is today's first screen. So design responsively, focusing on content and structure first.</p><img src="https://cdn-images-1.medium.com/max/800/1*sp7DeTgclRF8EERguRcemw.jpeg"></article>]]></description>
+            <link>https://medium.com/@zeldman/the-year-in-design-9c06acf55b88#.wjnjjojg4</link>
+            <guid isPermaLink="false">71ee8d9f-2387-4496-bd60-50943cfb275b</guid>
+            <pubDate>Mon, 28 Dec 2015 18:41:15 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
