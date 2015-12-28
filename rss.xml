@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[fused]]></title>
-        <description><![CDATA[fused]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Thinking of Design Thinking]]></title>
+        <description><![CDATA[Thinking of Design Thinking]]></description>
+        <link>https://thegrid.ai/fused/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 28 Dec 2015 18:41:16 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 28 Dec 2015 18:45:26 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/fused/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Why Product Thinking is the next big thing in UX Design]]></title>
+            <description><![CDATA[<article><h1>Why Product Thinking is the next big thing in UX Design</h1><p>A product has a core user experience, which is basically the reason the product exists. It fulfills a need or solves a problem people have. By that, it becomes meaningful and provides a certain value.</p><img src="https://cdn-images-1.medium.com/max/800/1*4b68ykk3H34KXVzqcHC3oA.png"></article>]]></description>
+            <link>https://medium.com/@jaf_designer/why-product-thinking-is-the-next-big-thing-in-ux-design-ee7de959f3fe#.rarsxprb6</link>
+            <guid isPermaLink="false">49c184d9-9784-40f1-b683-ce2e2e22be39</guid>
+            <pubDate>Mon, 28 Dec 2015 18:45:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Year in Design]]></title>
             <description><![CDATA[<article><h1>The Year in Design</h1><p>Mobile is today's first screen. So design responsively, focusing on content and structure first.</p><img src="https://cdn-images-1.medium.com/max/800/1*sp7DeTgclRF8EERguRcemw.jpeg"></article>]]></description>
